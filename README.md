@@ -1,1 +1,4 @@
-# JamesGodwin
+- 👋 Hi, I’m @JamesGodwin1108, a full stack developer
+- 👀 I’m interested in ...technical programming
+- 🌱 I’m currently learning ...more about my job
+- 📫 How to reach me on fiverr... https://www.fiverr.com/users/jamesgodwin11
